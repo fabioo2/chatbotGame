@@ -4,5 +4,5 @@ A chatbot written in es6 and vs6 for twilio and testing on the web. The importan
 
 # This is a Covid-19 Self-Assessment Chat bot. 
 
-The code for index.js was forked from the repository mentioned above. Game.js was modified and turned into a COVID-19 chatbot as part of an Assignment for PROG8110 - Mobile Applications Development
+The code for front-end was forked from the repository mentioned above. Game.js was modified and turned into a COVID-19 chatbot as part of an Assignment for PROG8110 - Mobile Applications Development
 
